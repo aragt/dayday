@@ -1,0 +1,97 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color:#0d161b;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+}
+nav{
+    background-color: #0d161b;
+    padding: 10px;
+}
+nav li a{
+    color: rgba(255, 142, 12, 0.993);
+
+}
+nav li a:hover{
+    color: #d40ffcf6;
+}
+header h1:hover{
+    color: #e91e84;
+    animation: backwards;
+
+}
+nav ul{
+    list-style-type: none;
+    padding: 0%;
+}
+nav li{
+    display: inline;
+   margin-right: 20px;
+   text-align: center;
+   padding: 10px;
+}
+nav li a{
+    text-decoration: none;
+}
+.main{
+    max: width 10px;px;
+    max-height: 1px;
+
+}
+.mmm{
+    background-color: #4c4e4d2a;
+    color: #0e0b0b;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    
+}
+.mmm p{
+    text-size-adjust: 18px;
+    text-align: center;}
+
+header img{
+    width: 200px;
+    height: 100px;
+    align-items:100px;
+}
+.mmm{
+    text-align: center;
+    align-items: center;
+    
+}
+.mmm h1{
+    text-align: center;
+
+}
+.sawiro{
+    background-color: #e91e84;
+    color: #fff;
+
+}
+.sawiro h1{
+    text-align: center;
+    color: ;
+
+}
+.sawiro img{
+    width: 250px;
+    height: 150px;
+}
+.sawiro .tusmo{
+ background-color: #27272571;
+display: table;
+background: size 100%;
+}
+header h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: italic;
+        text-align: center;
+        right: 20px;
+        left: 20px;
+        top: 20px;
+}
